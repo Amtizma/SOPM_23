@@ -1,5 +1,5 @@
 # Youtube
 
-## Version 1.0.0
+## Version 1.1.0
 
-### Launched the app
+### Added a like and dislike feature
