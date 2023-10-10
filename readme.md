@@ -1,5 +1,5 @@
 # Youtube
 
-## Version 1.1.3
+## Version 1.2.0
 
-### Fixed a bug where the likes weren't correctly counted
+### Added a comment section
