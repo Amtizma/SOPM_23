@@ -1,5 +1,5 @@
 # Youtube
 
-## Version 2.0.0
+## Version 2.0.1
 
-### The app can now run with the screen locked or in the background of other apps
+### The dislikes are now not visible anymore
